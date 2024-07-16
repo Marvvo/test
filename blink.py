@@ -18,6 +18,3 @@ try:
         time.sleep(1)  # 1 Sekunde warten
 except KeyboardInterrupt:
     print("Beenden...")
-
-# Kleine änderung
-# Mal schauen was wird
