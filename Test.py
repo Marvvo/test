@@ -1,2 +1,1 @@
-Dies ist ein Test
-Mal schauen, was wird
+print("Wer Das liest ist dumm")
